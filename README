@@ -1,0 +1,2 @@
+- Extract in $FEOSSDK/userlib/
+- type "make install" to install the library
